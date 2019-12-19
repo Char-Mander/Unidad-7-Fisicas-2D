@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{EB365419-41A3-F714-3671-CE627EAE91C9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameAssets/Scrips/Bomb.cs">
+    <Files>
+      <File FileName="Assets/GameAssets/Scripts/EjemploAddForceAtPoint.cs" Line="18" Column="6" />
+      <File FileName="Assets/GameAssets/Scripts/OnCollisions.cs" />
+      <File FileName="Assets/GameAssets/Scrips/Player2D.cs" />
+      <File FileName="Assets/GameAssets/Scrips/SpringAbility.cs" />
+      <File FileName="Assets/GameAssets/Scrips/Trampolin.cs" />
+      <File FileName="Assets/GameAssets/Scripts/PlataformaMovil.cs" />
+      <File FileName="Assets/GameAssets/Scrips/Car.cs" />
+      <File FileName="Assets/GameAssets/Scrips/ButtonPress.cs" Line="16" Column="71" />
+      <File FileName="Assets/GameAssets/Scrips/Bomb.cs" Line="32" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unidad 7 Fisica 2D" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameAssets" expanded="True">
+                <Node name="Scrips" expanded="True">
+                  <Node name="Bomb.cs" selected="True" />
+                </Node>
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d9db1ad2-baa6-4ab4-ae5f-96c56a40f586" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
